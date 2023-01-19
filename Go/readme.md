@@ -6,9 +6,9 @@ This is a simple wallet sample that needs to be connected to a RPC node. By defa
 
 To run the sample app, follow these steps:
 
-1. Get "jsonrpc.go" from https://github.com/ybbus/jsonrpc
+1. Get "jsonrpc.go" from https://github.com/Cori1109/jsonrpc
 
-2. Put it in %GOROOT%/src/github.com/ybbus/jsonrpc on your pc
+2. Put it in %GOROOT%/src/github.com/Cori1109/jsonrpc on your pc
 
 3. Copy phantasma.go from Output/temp/Go/Libs to %GOROOT%/src/phantasma
 
